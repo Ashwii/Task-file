@@ -1,0 +1,58 @@
+.container{
+	background-color:white;
+	width: 40%;
+	margin:100px;
+	margin-left: 30%;
+	padding:10px;
+	text-align: center;
+	font-size: 18px;
+	border:1px solid grey;
+}
+.header a{
+	text-decoration: none;
+	color:blue;
+	font-size: 18px;
+	background-color:white;
+	padding:16px 100px;
+	display:inline-block;
+	opacity: 0.5;
+}
+.cont1 button{
+	background-color: #3b5998;
+	font-size: 18px;
+	color:white;
+	padding:16px 140px;
+}
+.cont2 button{
+	background-color: #00aced;
+	font-size: 18px;
+	color:white;
+	padding:16px 155px;
+}
+.email,.psw{
+	box-sizing: border-box;
+	padding:16px 155px;
+	box-shadow: 1px 0px 1px 0px;
+	font-size: 18px;
+	text-align: left;
+}
+.sub{
+	padding:20px 238px;
+	background-color: #1e1d46;
+	color:white;
+	font-size: 18px;
+}
+.cont1 i{
+	background-color: #3b5998;
+	padding:18px;
+	color:white;
+}
+.cont2 i{
+	background-color:#00aced;
+	padding:18px;
+	color:white;
+}
+a{
+	text-decoration: none;
+	font-size: 18px;
+}
